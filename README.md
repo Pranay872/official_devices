@@ -55,6 +55,7 @@ Realme X7 Max (RMX3031) by NishantKumar6342
 Realme X50 Pro 5G (bladerunner) by Sreelekshman
 Realme X50 Pro Player (bladerunner_48m) by Sreelekshman
 Realme GT Neo 3T/Q5 Pro (RMX3371) by Abhishek Shukla
+Realme X2 (RMX1992) by Pranay Bhagat
 ```
 
 ### - Samsung Devices
